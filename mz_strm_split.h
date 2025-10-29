@@ -11,6 +11,8 @@
 #ifndef MZ_STREAM_SPLIT_H
 #define MZ_STREAM_SPLIT_H
 
+#include "mz.h"
+
 #ifdef __cplusplus
 extern "C" {
 #endif

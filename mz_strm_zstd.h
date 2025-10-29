@@ -12,6 +12,8 @@
 #ifndef MZ_STREAM_ZSTD_H
 #define MZ_STREAM_ZSTD_H
 
+#include "mz.h"
+
 #ifdef __cplusplus
 extern "C" {
 #endif

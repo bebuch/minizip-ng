@@ -11,6 +11,8 @@
 #ifndef MZ_CRYPT_H
 #define MZ_CRYPT_H
 
+#include "mz.h"
+
 #ifdef __cplusplus
 extern "C" {
 #endif

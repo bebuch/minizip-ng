@@ -13,6 +13,8 @@
 #ifndef MZ_STREAM_BUFFERED_H
 #define MZ_STREAM_BUFFERED_H
 
+#include "mz.h"
+
 #ifdef __cplusplus
 extern "C" {
 #endif

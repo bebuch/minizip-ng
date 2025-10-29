@@ -11,6 +11,8 @@
 #ifndef MZ_OS_H
 #define MZ_OS_H
 
+#include "mz.h"
+
 #ifdef __cplusplus
 extern "C" {
 #endif

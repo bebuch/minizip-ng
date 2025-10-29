@@ -11,6 +11,8 @@
 #ifndef MZ_STREAM_PKCRYPT_H
 #define MZ_STREAM_PKCRYPT_H
 
+#include "mz.h"
+
 #ifdef __cplusplus
 extern "C" {
 #endif

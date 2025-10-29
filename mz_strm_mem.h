@@ -11,6 +11,8 @@
 #ifndef MZ_STREAM_MEM_H
 #define MZ_STREAM_MEM_H
 
+#include "mz.h"
+
 #ifdef __cplusplus
 extern "C" {
 #endif
